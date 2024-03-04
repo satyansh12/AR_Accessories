@@ -3,8 +3,11 @@ It is an augmented reality app that let's people try on different virtual access
 
 # Tools used
 Unity 3D
-Vuforia 
+ <br> 
+Vuforia
+ <br> 
 AR kit
+ <br> 
 C#
 
 # How it looks.
