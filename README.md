@@ -13,11 +13,11 @@ C#
 # How it looks.
 QR code
 ![Screenshot 2024-03-04 104933](https://github.com/satyansh12/AR_Accessories/assets/33220576/a462931b-f4b0-43f6-9ecf-0587e70406fb)
-Watch
-![Screenshot 2024-03-04 104949](https://github.com/satyansh12/AR_Accessories/assets/33220576/ac8c7613-4789-4573-b6bb-d4587050a81d)
 Shoes
-![Screenshot 2024-03-04 105006](https://github.com/satyansh12/AR_Accessories/assets/33220576/2df4658b-e5c5-4355-b821-1ce54ad2ea7c)
+![Screenshot 2024-03-04 104949](https://github.com/satyansh12/AR_Accessories/assets/33220576/ac8c7613-4789-4573-b6bb-d4587050a81d)
 Tshirt
+![Screenshot 2024-03-04 105006](https://github.com/satyansh12/AR_Accessories/assets/33220576/2df4658b-e5c5-4355-b821-1ce54ad2ea7c)
+Watch
 ![Screenshot 2024-03-04 104907](https://github.com/satyansh12/AR_Accessories/assets/33220576/d1ef585d-ef46-4f09-a7c7-d8a88fb99188)
 
 # Try this on web
